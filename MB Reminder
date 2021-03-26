@@ -1,0 +1,40 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+</head>
+
+<body onload="function(){document.getElementById('demo').innerHTML = Date().toString}"</body>>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&amp;family=Cormorant+Garamond&amp;display=swap" rel="stylesheet" type="text/css" />
+    <div><img style="width: 100%; max-width: 600px;"
+            src="https://static.wixstatic.com/media/6957cb_7db2e61b282345628ab75a6863756925~mv2.jpeg" alt="" /></div>
+    <div>&nbsp;</div>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">Hi
+        &lt;CLIENTFIRSTNAME&gt;,</p>
+    <p style="font-family: Cinzel, serif; font-size: 18px; font-style: normal; font-weight: 400;">This is Reception from
+        Glow with a reminder for your appointment on &lt;DAYOFWEEK&gt; &lt;DATE&gt; at &lt;STARTTIME&gt; with
+        &lt;INSTRUCTOR&gt;.</p>
+        <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">Glow is implementing the recommended precautions to limit the spread of COVID-19.<br />We have given due
+        consideration to the current changing situation and the Hong Kong Government's latest guidelines to control the
+        virus spread within Hong Kong.</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">With these factors in mind, we respectfully request that, if you have recently arrived in Hong Kong, you delay
+        your appointments until after you have completed the required 14-day quarantine.</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">This request also applies to any members of your family or friends with whom you share a household or who may be
+        accompanying you to the appointment.</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">For your convenience, a calendar attachment is included in this email.</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">We&rsquo;re looking forward to seeing you at our new location:</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">8/F Silver Fortune Plaza, 1 Wellington Street, Central.</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">See you soon!</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">Kind regards,</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">Sioban</p>
+    <p style="font-family: 'Cormorant Garamond', serif; font-size: 14px; font-weight:400; font-style:normal;">Web: http://glowspa.hk<br />Phone: +852 2525 5198<br />Mobile and WhatsApp: +852 9680
+        2107<br />Map:&nbsp;https://goo.gl/maps/U5DKGCbRTyjj1gJ89</p>
+    <div>&nbsp;</div>
+    <div><img style="width: 100%; max-width: 600px;"
+            src="https://static.wixstatic.com/media/6957cb_25a426523f174e29914019574c404b20~mv2.jpeg" alt="" /></div>
+    <div><script type="text/javascript">document.getElementById('demo').innerHTML = Date().toString</script>
+    <p id="demo"></p></div>
+</body>
+
+</html>
